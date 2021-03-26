@@ -1,4 +1,4 @@
- #Hangman-final
+ Hangman-final
 
 
 step 1
@@ -23,4 +23,4 @@ step 7
 Improve the game by handling different error cases. Repetition of a letter, entering words that are too long, or using non-Latin characters shouldn’t cost your player a life.
 
 step 8
-#Dinner at a restaurant starts with the menu; our project ends with one. Create a menu for your game so that players can replay it or exit.
+Dinner at a restaurant starts with the menu; our project ends with one. Create a menu for your game so that players can replay it or exit.
